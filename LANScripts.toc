@@ -1,0 +1,3 @@
+## Interface: 80200
+## Title: LANScripts
+core.lua
